@@ -13,7 +13,7 @@ st.set_page_config(page_title='Heart Disease Prediction ',layout='centered')
 st.title("CORONARY HEART DISEASE PREDICTION USING ML MODELS")
 
 #load dataset
-data =pd.read_csv(r"C:\Users\ASUS\Downloads\archive\framingham.csv")
+data =pd.read_csv(r"framingham.csv")
 
 #filling the missing values by mean values
 data.fillna(data.mean(),inplace=True)
