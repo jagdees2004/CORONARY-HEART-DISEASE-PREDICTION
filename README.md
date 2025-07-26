@@ -2,6 +2,7 @@
 # Coronary Heart Disease Prediction Web App 🫀
 
 An interactive web application built with **Streamlit** to predict a patient’s 10-year risk of developing **Coronary Heart Disease (CHD)**. The app uses various machine learning models and clinical inputs from the **Framingham Heart Study** dataset.
+🔗 **Live App**: [coronary-heart-disease-prediction-knjagdeessamal.streamlit.app](https://coronary-heart-disease-prediction-knjagdeessamal.streamlit.app/)
 
 ---
 
